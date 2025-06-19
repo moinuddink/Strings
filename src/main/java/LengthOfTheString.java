@@ -8,5 +8,10 @@ public class LengthOfTheString {
         System.out.println(str2.length());
         String str3 = str1+" "+str2;
         System.out.println(str3.length());
+
+        int len1 ="".length();
+        int len2 ="Hello".length();
+        System.out.println(len1);
+        System.out.println(len2);
     }
 }
