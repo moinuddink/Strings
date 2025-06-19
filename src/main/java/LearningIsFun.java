@@ -4,6 +4,7 @@ public class LearningIsFun {
             boolean isJavaFun = true;
             boolean learningIsHard = false;
 
+
             System.out.println("Is Java fun? " + isJavaFun);
             System.out.println("Is learning hard? " + learningIsHard);
 
