@@ -6,6 +6,8 @@ public class LengthOfTheString {
         String str2 = "Jersey";
         System.out.println(str1.length());
         System.out.println(str2.length());
+        System.out.println(str1.compareTo(str2));
+        System.out.println(str1.equals(str2));
         String str3 = str1+" "+str2;
         System.out.println(str3.length());
 
